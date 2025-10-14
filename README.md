@@ -1,4 +1,4 @@
-# 👋 Bonjour, et bienvenue sur mon Git, moi c'est Logan !
+# 👋 Bonjour, moi c'est Logan !
 
 Bienvenue sur mon GitHub ! 🚀  
 Je suis **Développeur Full Stack Junior** passionné par le code, la gestion de projet.
