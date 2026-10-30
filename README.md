@@ -6,7 +6,7 @@ Je suis **Développeur Full Stack Junior** passionné par le code, la gestion de
 ---
 
 ## 💻 À propos de moi
-- 🎓 Actuellement en **Master en Ingénierie Informatique et Management de Projet à Metz Numeric School**  
+- 🎓 Diplômé en **Master en Ingénierie Informatique et Management de Projet à Metz Numeric School**  
 - 💼 En pleine recherche d'alternance **mais je développe tout de même des projets pro et perso**  
 - 🌱 Toujours en train d’apprendre et d’améliorer mes compétences  
 - ⚡ Objectif : Devenir **Senior Developer** et **Chef de projet technique**  
